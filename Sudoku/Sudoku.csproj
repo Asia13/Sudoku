@@ -63,6 +63,8 @@
     <Compile Include="Forms\GameBoardForm.Designer.cs">
       <DependentUpon>GameBoardForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="GameElements\GameBoard.cs" />
+    <Compile Include="GameElements\TileSet.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Forms\ControlPanelForm.resx">
