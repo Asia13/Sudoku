@@ -66,6 +66,7 @@
     <Compile Include="GameElements\GameBoard.cs" />
     <Compile Include="GameElements\TileSet.cs" />
     <Compile Include="GameSettings.cs" />
+    <Compile Include="HelperFunctions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Forms\ControlPanelForm.resx">
